@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-329
-description: "Create XXD Panel 329 raster artwork: a faithful photograph paired with one yuru-style emotional icon in a thin wobbling monoline and faded color. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-329 or asks for this 余裕细线 style."
+description: "XXD Panel 329｜Yuru Thin Line: keeps the photo and draws one small, quiet emotional icon of its subject in the relaxed Japanese yuru style — a thin hand-drawn monoline that wobbles, pauses and stays a little clumsy, with a few simple colour patches and small shifts in proportion, recognisable without exact depiction. Very few soft, low-stimulus colours such as faded blue, misty green, warm white, light grey, soft brown or a single theme colour, like one mark on old paper; small, off-centre or gently floating in wide whitespace with very low information density, plus a short word, short line or tiny note like a private journal mark. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-329 or asks for a yuru-style minimal icon, wobbly line drawing or quiet emotional doodle mark from a photo."
 ---
 
 # XXD Panel 329

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 329｜Yuru Thin Line: keeps the photo and draws one small, quiet emotional icon of its subject in the relaxed Japanese yuru style — a thin hand-drawn monoline that wobbles, pauses and stays a little clumsy, with a few simple colour patches and small shifts in proportion, recognisable without exact depiction. Very few soft, low-stimulus colours such as faded blue, misty green, warm white, light grey, soft brown or a single theme colour, like one mark on old paper; small, off-centre or gently floating in wide whitespace with very low information density, plus a short word, short line or tiny note like a private journal mark. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-329 or asks for a yuru-style minimal icon, wobbly line drawing or quiet emotional doodle mark from a photo.",
+  "short_description": "余裕细线：把照片主体用一根轻轻摇晃的细线画成一个安静、低刺激色的余裕小图标",
+  "zh-CN": {
+    "name": "余裕细线",
+    "tagline": "保留原照片，用一根轻轻摇晃的细线画出一个安静的余裕小图标。",
+    "look": "照片保持原样，设计部分用日系“余裕”插画的方式，把主体画成一个简单、略带稚拙的小符号：一根细细的手绘单线，轻微摇晃、有停顿，不完全规则，像随手记下来的，配上一两块简单色块和一点比例变化。不求画得准，只求一看就想起原来的对象和情境。颜色很少、低刺激，比如褪色蓝、雾绿、暖白、浅灰、柔棕，或者只用一个主题色，像旧纸上的一笔记号。符号小，可以偏心、只露一部分或轻轻漂浮在大片空白里；旁边一个短词或一句短短的手账式小注。",
+    "traits": ["余裕插画", "摇晃单线", "情绪图标", "低刺激色", "小主体留白"],
+    "good": [
+      "安静、有一点呆萌的日常瞬间：打哈欠的猫、晒太阳的人、雨天的一把伞",
+      "带情绪的小场景：等公交、喝热茶、窗边发呆",
+      "想做成手账贴纸、聊天头像、日记配图或安静表情的照片"
+    ],
+    "poor": [
+      "需要准确描绘或丰富细节的照片：产品图、建筑、肖像",
+      "色彩强烈、节奏紧张的照片：赛车、演出现场、霓虹街头",
+      "想要精致矢量 Logo、商业吉祥物、卡通贴纸或过度可爱效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Yuru Thin Line",
+    "tagline": "Keeps your photo and draws one quiet, easygoing little icon in a thin line that gently wobbles.",
+    "look": "The photo stays as it is. In the relaxed Japanese yuru illustration manner, the design draws the subject as a simple, slightly awkward small symbol: one thin hand-drawn line that wobbles a little, pauses and is not quite regular, as if jotted down, with one or two simple colour patches and a small shift in proportion. It does not try to be accurate, only to bring back the original subject and moment at a glance. Colours are few and low-key, such as faded blue, misty green, warm white, light grey and soft brown, or a single theme colour, like one mark on old paper. The symbol is small and may sit off-centre, show only in part or float gently in wide empty space, with a short word or one short journal-style line beside it.",
+    "traits": ["Yuru illustration", "Wobbly monoline", "Emotional icon", "Low-key colour", "Small subject, wide space"],
+    "good": [
+      "Quiet, slightly goofy everyday moments: a yawning cat, someone sunbathing, an umbrella on a rainy day",
+      "Small scenes with a feeling: waiting for the bus, sipping hot tea, daydreaming by a window",
+      "Photos you want as a journal sticker, a chat avatar, a diary image or a quiet emoji"
+    ],
+    "poor": [
+      "Photos that need accurate depiction or rich detail: products, architecture, portraits",
+      "Loud, tense photos: car racing, live shows, neon streets",
+      "Wanting a polished vector logo, a commercial mascot, cartoon stickers or an over-cute look"
+    ]
+  },
+  "ja": {
+    "name": "ゆるい細線",
+    "tagline": "写真はそのままに、少し揺れる細い線で、静かでゆるい小さなアイコンを描きます。",
+    "look": "写真はそのまま残し、デザイン側は日本の「ゆるい」イラストのように、主役をシンプルで少し不器用な小さな記号にします。細い手描きの一本線は少し揺れ、途中で止まり、整いきらず、さっとメモしたようです。そこに簡単な色面を一、二か所と、ちょっとした比率の変化を加えます。正確さは求めず、ひと目で元の対象と状況を思い出せることを大切にします。色はごく少なく刺激が弱く、褪せた青、霧のような緑、温かな白、薄いグレー、柔らかな茶、あるいはテーマの一色だけで、古い紙に残した一筆のようです。記号は小さく、中心を外したり、一部だけ見せたり、広い余白にふわりと浮かべたりし、横に短い一語か手帳のような短い一行を添えます。",
+    "traits": ["ゆるいイラスト", "揺れる一本線", "気持ちのアイコン", "刺激の少ない色", "小さな主役と余白"],
+    "good": [
+      "静かで少しとぼけた日常のひとこま：あくびする猫、日なたぼっこする人、雨の日の傘",
+      "気持ちのにじむ小さな場面：バス待ち、温かいお茶、窓辺でぼんやり",
+      "手帳のシール、チャットのアイコン、日記の挿絵、静かなスタンプにしたい写真"
+    ],
+    "poor": [
+      "正確な描写や豊かな細部が必要な写真：商品、建築、肖像",
+      "色が強く緊張感のある写真：カーレース、ライブ会場、ネオンの街",
+      "精緻なベクターロゴ、商業的なマスコット、キャラクターステッカー、かわいすぎる仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "느긋한 가는 선",
+    "tagline": "원래 사진은 그대로 두고, 살짝 흔들리는 가는 선으로 조용하고 느긋한 작은 아이콘을 그립니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 일본의 '유루' 일러스트처럼 주인공을 단순하고 조금 서툰 작은 기호로 만듭니다. 가는 손그림 단선은 살짝 흔들리고 중간에 멈추며 완전히 고르지 않아 대충 적어 둔 메모 같고, 여기에 단순한 색면 한두 개와 약간의 비율 변화를 더합니다. 정확함보다는 한눈에 원래 대상과 상황이 떠오르는 것을 중요하게 여깁니다. 색은 아주 적고 자극이 약해 바랜 파랑, 안개 낀 초록, 따뜻한 흰색, 연회색, 부드러운 갈색, 혹은 주제색 하나만 써서 옛 종이에 남긴 한 획 같습니다. 기호는 작게, 가운데를 벗어나거나 일부만 보이거나 넓은 여백에 가볍게 떠 있게 두고, 곁에 짧은 단어나 다이어리 같은 짧은 한 줄을 붙입니다.",
+    "traits": ["유루 일러스트", "흔들리는 단선", "감정 아이콘", "저자극 색", "작은 주인공과 여백"],
+    "good": [
+      "조용하고 살짝 엉뚱한 일상의 순간: 하품하는 고양이, 햇볕 쬐는 사람, 비 오는 날의 우산",
+      "감정이 묻어나는 작은 장면: 버스 기다리기, 따뜻한 차 마시기, 창가에서 멍하니 있기",
+      "다이어리 스티커, 채팅 프로필, 일기 삽화, 조용한 이모티콘으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "정확한 묘사나 풍부한 세부가 필요한 사진: 제품, 건축, 초상",
+      "색이 강하고 긴박한 사진: 자동차 경주, 공연장, 네온 거리",
+      "정교한 벡터 로고, 상업 마스코트, 캐릭터 스티커, 지나치게 귀여운 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "خط رفيع مسترخٍ",
+    "tagline": "يحتفظ بصورتك ويرسم أيقونة صغيرة هادئة مسترخية بخط رفيع يتمايل برفق.",
+    "look": "تبقى الصورة كما هي، وعلى طريقة رسوم «يورو» اليابانية المسترخية يرسم التصميم العنصر رمزاً صغيراً بسيطاً فيه شيء من الارتباك: خط يدوي رفيع واحد يتمايل قليلاً ويتوقف وليس منتظماً تماماً، كأنه دُوِّن على عجل، مع بقعة أو بقعتين لونيتين بسيطتين وتغيير طفيف في النِّسب. لا يسعى إلى الدقة، بل إلى أن يستعيد الناظر العنصر الأصلي واللحظة من نظرة واحدة. الألوان قليلة هادئة، مثل الأزرق الباهت والأخضر الضبابي والأبيض الدافئ والرمادي الفاتح والبني الناعم، أو لون واحد للموضوع، كأثر قلم على ورق قديم. الرمز صغير، قد يبتعد عن المركز أو يظهر جزء منه فقط أو يطفو برفق في فراغ واسع، وبجانبه كلمة قصيرة أو سطر قصير كملاحظة في دفتر يوميات.",
+    "traits": ["رسوم يورو", "خط واحد متمايل", "أيقونة وجدانية", "ألوان هادئة", "عنصر صغير وفراغ واسع"],
+    "good": [
+      "لحظات يومية هادئة فيها طرافة خفيفة: قطة تتثاءب، شخص يستلقي في الشمس، مظلة في يوم ماطر",
+      "مشاهد صغيرة فيها إحساس: انتظار الحافلة، احتساء شاي ساخن، السرحان قرب النافذة",
+      "صور تريدها ملصقاً لدفتر يوميات أو صورة في تطبيق محادثة أو رسماً ليوميات أو رمزاً تعبيرياً هادئاً"
+    ],
+    "poor": [
+      "صور تحتاج إلى تصوير دقيق أو تفاصيل غنية: المنتجات، العمارة، البورتريه",
+      "صور صاخبة متوترة: سباقات السيارات، الحفلات الحية، شوارع النيون",
+      "الرغبة في شعار متجهي مصقول أو تميمة تجارية أو ملصقات كرتونية أو مظهر مفرط اللطافة"
+    ]
+  }
+}
